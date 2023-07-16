@@ -1,5 +1,5 @@
 # SQL
-Hi there! This repository covers every component of SQL from Basics to Intermediate to Advanced operations.
+Hi there! This particular branch of this SQL repository covers every component of SQL from Basics to Intermediate to Advanced operations.
 Required Software
 ## Microsoft SQL Server Management Studio (SSMS) 
 ![App Screenshot](https://www.ubackup.com/screenshot/en/others/ssms/smss-logo.png)
