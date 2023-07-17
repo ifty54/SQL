@@ -8,6 +8,9 @@ Required Software
   https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
 ```
 - Connection Establishment
+
+![Screenshot (63)](https://github.com/ifty54/SQL/assets/31790027/572ebae0-edda-4e02-b583-2f3e46046975)
+
 ## Create Table
 `CREATE TABLE GigbigEmployeeDemo
 (EmployeeID int,
